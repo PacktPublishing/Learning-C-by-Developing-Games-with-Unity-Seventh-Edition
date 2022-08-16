@@ -1,0 +1,38 @@
+{
+  "name": "com.unity.collab-proxy",
+  "displayName": "Version Control",
+  "version": "1.17.1",
+  "unity": "2020.3",
+  "unityRelease": "14f1",
+  "description": "The Version Control package gives you the ability to use either Collaborate or Plastic SCM for Unity (beta) in the Unity editor. To use Plastic SCM for Unity (beta), a Plastic SCM subscription is required. Learn more about how you can get started for free by visiting plasticscm.com.",
+  "_upm": {
+    "changelog": "Plastic SCM for Unity is now available as part of the Version Control Package! You can enable Plastic SCM via Window > Plastic SCM to get started!\nIf you have previously used the Unity Asset Store Plastic SCM plug-in, you can now simply use this package. Make sure you delete the plug-in from your project.\nRemoving a previously added Plastic SCM Asset Store Plug-In:\n- Select the PlasticSCM folder in the Assets\\Plugins folder on the Project tab, then click Edit > Delete\n- Close the Unity Editor and open your project again. You will find the Plastic SCM menu item in the Window menu.\n\n### Fixed\n\n- Fixed missing references in synced prefabs"
+  },
+  "keywords": [
+    "backup",
+    "cloud",
+    "collab",
+    "collaborate",
+    "collaboration",
+    "control",
+    "plastic",
+    "plasticscm",
+    "source",
+    "team",
+    "teams",
+    "version",
+    "vcs"
+  ],
+  "dependencies": {
+    "com.unity.services.core": "1.0.1"
+  },
+  "category": "Editor",
+  "upmCi": {
+    "footprint": "4ed602418092eca62b19beb6716e512d24c759ac"
+  },
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git",
+    "type": "git",
+    "revision": "2346af88036ac7256d898e0bb536f60220ce6e18"
+  }
+}
