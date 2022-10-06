@@ -173,15 +173,16 @@ public class LearningCurve : MonoBehaviour
             "Merlin the Wise",
             "Sterling the Knight"
         };
+        int listLength = QuestPartyMemebers.Count; 
 
         QuestPartyMembers.Add("Craven the Necromancer");
         QuestPartyMembers.Insert(1, "Tanis the Thief");
         QuestPartyMembers.RemoveAt(0);
         //QuestPartyMembers.Remove("Grim the Barbarian");
 
-        Debug.LogFormat("Party Members: {0}", QuestPartyMembers.Count);
+        Debug.LogFormat("Party Members: {0}", listLength);
 
-        for (int i = 0; i < QuestPartyMembers.Count; i++)
+        for (int i = 0; i < listLength; i++)
         {
             Debug.LogFormat("Index: {0} - {1}", i, QuestPartyMembers[i]);
 
