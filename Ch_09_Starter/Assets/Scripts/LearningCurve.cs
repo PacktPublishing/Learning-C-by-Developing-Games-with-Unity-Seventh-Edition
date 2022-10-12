@@ -173,7 +173,7 @@ public class LearningCurve : MonoBehaviour
             "Merlin the Wise",
             "Sterling the Knight"
         };
-        int listLength = QuestPartyMemebers.Count; 
+        int listLength = QuestPartyMembers.Count; 
 
         QuestPartyMembers.Add("Craven the Necromancer");
         QuestPartyMembers.Insert(1, "Tanis the Thief");
