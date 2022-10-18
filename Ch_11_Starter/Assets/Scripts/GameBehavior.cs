@@ -10,9 +10,9 @@ public class GameBehavior : MonoBehaviour, IManager
 {
     public int MaxItems = 4;
 
-    public TextMeshProUGUI HealthText;
-    public TextMeshProUGUI ItemText;
-    public TextMeshProUGUI ProgressText;
+    public TMP_Text HealthText;
+    public TMP_Text ItemText;
+    public TMP_Text ProgressText;
 
     public Button WinButton;
     public Button LossButton;
