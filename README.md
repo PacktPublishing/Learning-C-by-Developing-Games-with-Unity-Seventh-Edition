@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781837636877)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Learning-C-by-Developing-Games-with-Unity-Seventh-Edition 
 This is the code repository for [Learning-C-by-Developing-Games-with-Unity-Seventh-Edition](https://www.amazon.com/Learning-Developing-Games-Unity-coding/dp/1837636877), published by Packt.
 
